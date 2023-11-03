@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_OTNIEL HUDY PRAT</name>
+   <tag></tag>
+   <elementGuidId>48d7f786-6a41-4124-89eb-e319d50328a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[3]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.jss664.MuiTypography-body1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1e002adc-ca50-4af0-b725-b434f790d23c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root jss664 MuiTypography-body1</value>
+      <webElementGuid>c6620a8c-30e8-48e0-ac54-72b42a064804</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OTNIEL HUDY PRAT</value>
+      <webElementGuid>73f75717-3598-453e-9feb-cd7a1342df3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;MuiContainer-root jss658 MuiContainer-maxWidthLg&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12&quot;]/div[@class=&quot;MuiGrid-root jss660 MuiGrid-item MuiGrid-grid-xs-12&quot;]/div[@class=&quot;react-reveal&quot;]/div[@class=&quot;MuiGrid-root jss659&quot;]/p[@class=&quot;MuiTypography-root jss664 MuiTypography-body1&quot;]</value>
+      <webElementGuid>e7a69ce0-40ae-4d7e-a35b-f833b4447c96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[3]/div/p</value>
+      <webElementGuid>6e88b86d-19d7-419e-a287-4b41b104547a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya'])[1]/preceding::p[4]</value>
+      <webElementGuid>d43da2e2-af45-4d49-b6e5-243f2ab651bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[1]/preceding::p[4]</value>
+      <webElementGuid>d62a2a6e-05f9-4f32-a306-82ca776fecf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OTNIEL HUDY PRAT']/parent::*</value>
+      <webElementGuid>fa45c947-7246-4875-a338-9ac2d555cedf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/p</value>
+      <webElementGuid>0d9963fa-c270-4430-8f8e-2aa1a806ec4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'OTNIEL HUDY PRAT' or . = 'OTNIEL HUDY PRAT')]</value>
+      <webElementGuid>e99195d8-9fa0-4390-8a7c-1a94a28728f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

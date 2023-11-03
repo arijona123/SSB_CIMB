@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_TABUNGAN TRANSAKSI</name>
+   <tag></tag>
+   <elementGuidId>19ad67ec-e43b-40bf-9ca3-2a9de8d91c49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.jss23.jss25.jss18.MuiButton-containedPrimary.MuiButton-disableElevation</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>392afa32-3456-473a-9063-475d43084b61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-contained jss23 jss25 jss18 MuiButton-containedPrimary MuiButton-disableElevation</value>
+      <webElementGuid>9100f14f-7cc0-45a4-befc-d11fb62901a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>4108a981-a78f-4666-ab25-373be68589c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>03cf8a3f-ebc0-4592-a627-be4c904347e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TABUNGAN TRANSAKSI</value>
+      <webElementGuid>aafd7a9f-950f-4051-a1d7-e9b695a17bce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;MuiContainer-root jss111 MuiContainer-maxWidthLg&quot;]/div[@class=&quot;MuiGrid-root jss112 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 MuiGrid-grid-md-4&quot;]/div[@class=&quot;MuiPaper-root jss113 MuiPaper-elevation0 MuiPaper-rounded&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained jss23 jss25 jss18 MuiButton-containedPrimary MuiButton-disableElevation&quot;]</value>
+      <webElementGuid>eeda3e01-9b43-477b-8e09-e6389c59f7b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>feaddcd8-d469-47a2-bee2-05baea5b64f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/button</value>
+      <webElementGuid>51d1d416-f803-441b-b86f-d1c32d587a23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TABUNGAN BERJANGKA'])[1]/preceding::button[1]</value>
+      <webElementGuid>b28393bf-c3f2-4583-b54c-bec11d5abd69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>60733524-2f46-465c-96b9-4202491c9adf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'TABUNGAN TRANSAKSI' or . = 'TABUNGAN TRANSAKSI')]</value>
+      <webElementGuid>b314afe2-5012-4166-84fd-c1aa6714252b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

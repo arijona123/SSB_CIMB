@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Saya telah membaca, memahami, dan menyetujui Ringkasan Informasi Produk dan Layanan (RIPLAY)</name>
+   <tag></tag>
+   <elementGuidId>4affe68b-6f08-4c30-b038-47c5c46f97c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='FORM-RIPLAY']/div/div/div[2]/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6c873110-142a-40de-bbc3-ec5ca03b80f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-label</name>
+      <type>Main</type>
+      <value>tnc_riplay</value>
+      <webElementGuid>b5079935-24a1-4355-9f89-f9909dbf6135</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Saya telah membaca, memahami, dan menyetujui Ringkasan Informasi Produk dan Layanan (RIPLAY).</value>
+      <webElementGuid>3b5b3998-0a64-4b3a-af1b-048c421cde5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FORM-RIPLAY&quot;)/div[@class=&quot;container-fluid add-blur&quot;]/div[@class=&quot;pad-global full-h&quot;]/div[@class=&quot;btn-fixed minus-scroll&quot;]/div[@class=&quot;checkbox-btn-small bold checkm10 add-class-disabled checkbox-btn-small&quot;]/label[1]/span[1]</value>
+      <webElementGuid>2eb4ded8-a805-45bb-9857-381ea1cfcbd5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='FORM-RIPLAY']/div/div/div[2]/div/label/span</value>
+      <webElementGuid>f93e9530-01e4-4341-9478-872a4d21f288</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/following::span[1]</value>
+      <webElementGuid>d7675545-6118-40ba-a2af-8e88de843897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online'])[1]/following::span[1]</value>
+      <webElementGuid>0ac24372-acd4-4e73-b3ea-1b316fb5acbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sebelumnya'])[1]/preceding::span[1]</value>
+      <webElementGuid>bf8d87e0-ae1e-4383-b77e-77041b2ce6a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lanjut'])[1]/preceding::span[2]</value>
+      <webElementGuid>19f347a4-a9d8-4c47-9227-420ba7f6c56b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Saya telah membaca, memahami, dan menyetujui Ringkasan Informasi Produk dan Layanan (RIPLAY).']/parent::*</value>
+      <webElementGuid>ef850123-bcdd-4cb5-861c-58cfec444868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>7d15f26f-2113-498c-b8e0-5651e67416cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Saya telah membaca, memahami, dan menyetujui Ringkasan Informasi Produk dan Layanan (RIPLAY).' or . = 'Saya telah membaca, memahami, dan menyetujui Ringkasan Informasi Produk dan Layanan (RIPLAY).')]</value>
+      <webElementGuid>33ed584f-63d4-41e0-beaf-d429062af142</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

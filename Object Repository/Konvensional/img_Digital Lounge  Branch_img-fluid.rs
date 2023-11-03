@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Digital Lounge  Branch_img-fluid</name>
+   <tag></tag>
+   <elementGuidId>9dd4cd72-94ba-4e22-9198-ba13283c8f6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-fluid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div[2]/div/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2a7fc4bc-f0a5-49ca-8b63-2baf3a987b54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/cimb_tablet/assets/images/dl.png</value>
+      <webElementGuid>43fb920a-f13e-4a0f-90c3-978b11cacc73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid</value>
+      <webElementGuid>29ac505c-254e-4e78-b43e-c2589e9da5dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;MuiGrid-root&quot;]/div[1]/div[@class=&quot;MuiContainer-root jss14 MuiContainer-maxWidthLg&quot;]/div[@class=&quot;MuiGrid-root jss15 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 MuiGrid-grid-md-4&quot;]/div[@class=&quot;MuiPaper-root jss16 MuiPaper-elevation0 MuiPaper-rounded&quot;]/img[@class=&quot;img-fluid&quot;]</value>
+      <webElementGuid>7bee9601-e80f-46a5-b467-e29f9d16983b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div/div/div/img</value>
+      <webElementGuid>4eecc35b-d76d-426f-b7cc-426b0cb5e4c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>a4cc2779-cbec-4741-960b-a88db2690fe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/cimb_tablet/assets/images/dl.png']</value>
+      <webElementGuid>bc0f6655-956b-4857-836a-835e68d3c3ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

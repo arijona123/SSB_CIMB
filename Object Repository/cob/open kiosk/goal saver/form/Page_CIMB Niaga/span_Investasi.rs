@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Investasi</name>
+   <tag></tag>
+   <elementGuidId>fe987fa8-cb44-4b42-9d3c-29ae5370f99b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='FORM']/section[4]/div/div/div[2]/div/div[2]/div/div/form/div[2]/div[2]/div[2]/div/div[2]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cf1adb3a-d9c5-4385-9a77-165c4f45f0ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-option pull-left</value>
+      <webElementGuid>4bb08a57-dbff-4126-889b-47432154d02f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Investasi</value>
+      <webElementGuid>0dbc0a44-7a9f-401e-a947-1fdefbc80035</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FORM&quot;)/section[@class=&quot;SAXTRA-EXISTING-NO-BO-2 remove-hide show&quot;]/div[@class=&quot;container-fluid add-blur&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10&quot;]/div[@class=&quot;wrap-right&quot;]/div[@class=&quot;in-form&quot;]/div[@class=&quot;table-tbl&quot;]/div[@class=&quot;cell&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;wrap-select&quot;]/div[@class=&quot;pos-rel custom-select&quot;]/div[@class=&quot;btn-group bootstrap-select required&quot;]/button[@class=&quot;btn dropdown-toggle btn-default&quot;]/span[@class=&quot;filter-option pull-left&quot;]</value>
+      <webElementGuid>cf754cf9-a728-4d60-86ed-6fb35d158bfd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='FORM']/section[4]/div/div/div[2]/div/div[2]/div/div/form/div[2]/div[2]/div[2]/div/div[2]/div/button/span</value>
+      <webElementGuid>02c69931-4268-4952-a7c8-dc2a3830b6a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tujuan Membuka Rekening'])[1]/following::span[1]</value>
+      <webElementGuid>2fce21e0-5264-4592-bb23-29133e9707af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Undian'])[1]/following::span[2]</value>
+      <webElementGuid>54d1910a-20ba-4207-8bc3-4610ce8b430d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='---'])[16]/preceding::span[3]</value>
+      <webElementGuid>ec4cf680-c25f-4be2-be89-db3412bfa15b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Investasi'])[2]/preceding::span[5]</value>
+      <webElementGuid>749e3a9c-00d5-43c5-bce6-72a97ed3c57d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Investasi']/parent::*</value>
+      <webElementGuid>a4598eea-a740-4ce4-806e-446036802b47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div[2]/div/button/span</value>
+      <webElementGuid>80c4efbd-23a7-4e73-b4af-252957230d33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Investasi' or . = 'Investasi')]</value>
+      <webElementGuid>7cfbecd0-ec80-4234-bf8c-cea9aa1b86d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

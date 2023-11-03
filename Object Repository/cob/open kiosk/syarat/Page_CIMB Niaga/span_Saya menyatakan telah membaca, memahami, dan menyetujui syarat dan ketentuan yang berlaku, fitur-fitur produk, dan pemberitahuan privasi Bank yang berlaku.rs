@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Saya menyatakan telah membaca, memahami, dan menyetujui syarat dan ketentuan yang berlaku, fitur-fitur produk, dan pemberitahuan privasi Bank yang berlaku</name>
+   <tag></tag>
+   <elementGuidId>f04fcf2a-d7e5-47a3-b9b4-395a85fd4db0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='XTRA-TNC']/div/div/div[2]/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ddf3d71a-330d-4d96-af51-7716e2526296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-label</name>
+      <type>Main</type>
+      <value>tnc_syarat1</value>
+      <webElementGuid>eaa754ef-3e9a-432f-a551-34ce2d92a1a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Saya menyatakan telah membaca, memahami, dan menyetujui syarat dan ketentuan yang berlaku, fitur-fitur produk, dan pemberitahuan privasi Bank yang berlaku.</value>
+      <webElementGuid>577b204c-6d86-45d4-a27c-0b7dca114486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;XTRA-TNC&quot;)/div[@class=&quot;container-fluid add-blur&quot;]/div[@class=&quot;pad-global full-h pb190&quot;]/div[@class=&quot;btn-fixed minus-scroll&quot;]/div[@class=&quot;checkbox-btn-small bold checkm10 add-class-disabled checkbox-btn-small&quot;]/label[1]/span[1]</value>
+      <webElementGuid>3b336940-fdd1-4911-8c9a-835fcf74513e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='XTRA-TNC']/div/div/div[2]/div/label/span</value>
+      <webElementGuid>212a769c-e553-4e90-a1a1-a3e4776006ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat dan Ketentuan'])[1]/following::span[1]</value>
+      <webElementGuid>4023a12b-d5b0-4f15-98f0-a7f6d4185c41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/following::span[1]</value>
+      <webElementGuid>230f8dea-a088-420b-8f86-42e65b67c06c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saya adalah wajib pajak Indonesia dan bukan wajib pajak negara lain.'])[1]/preceding::span[1]</value>
+      <webElementGuid>2e8b18b6-bf30-429e-8ae6-bd10f2457f39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sebelumnya'])[1]/preceding::span[2]</value>
+      <webElementGuid>56a1e08a-5c5c-48fa-875a-4291bed45408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Saya menyatakan telah membaca, memahami, dan menyetujui syarat dan ketentuan yang berlaku, fitur-fitur produk, dan pemberitahuan privasi Bank yang berlaku.']/parent::*</value>
+      <webElementGuid>391efae9-70e8-4395-b285-4aba4b39b950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>e41cb340-5ed4-485d-9203-e6aa9fc4943c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Saya menyatakan telah membaca, memahami, dan menyetujui syarat dan ketentuan yang berlaku, fitur-fitur produk, dan pemberitahuan privasi Bank yang berlaku.' or . = 'Saya menyatakan telah membaca, memahami, dan menyetujui syarat dan ketentuan yang berlaku, fitur-fitur produk, dan pemberitahuan privasi Bank yang berlaku.')]</value>
+      <webElementGuid>4de3b30b-a47e-46e4-885c-8c10936d1412</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

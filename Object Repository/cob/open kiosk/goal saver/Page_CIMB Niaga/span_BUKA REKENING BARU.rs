@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_BUKA REKENING BARU</name>
+   <tag></tag>
+   <elementGuidId>f29d0ea4-1698-485b-8c4a-5fd66acce9ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='HOME']/section[2]/div/div/div/div/div/div[2]/div/div/div/div/a/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1eaad758-2328-4d4a-af1e-1209176ae0bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-label</name>
+      <type>Main</type>
+      <value>pembukaan_rekening</value>
+      <webElementGuid>784d4584-5d63-45de-b655-f0fae84d6658</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BUKA REKENING BARU</value>
+      <webElementGuid>7c45aae1-65a5-4cd7-8550-7f30d2e22009</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;HOME&quot;)/section[@class=&quot;SERVICE remove-hide show&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;bg-layanan text-center&quot;]/div[@class=&quot;table-tbl&quot;]/div[@class=&quot;cell&quot;]/div[@class=&quot;pad-global add-blur&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10 col-md-offset-1&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;item-layanan&quot;]/a[@class=&quot;click-rekening&quot;]/button[@class=&quot;min255 button btn-red btn-light-red button--round-l&quot;]/span[1]</value>
+      <webElementGuid>f481924e-28fd-40a7-9532-0af4ab0b85f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='HOME']/section[2]/div/div/div/div/div/div[2]/div/div/div/div/a/button/span</value>
+      <webElementGuid>b96ab465-5ea4-4c13-9435-af9b93eaf5c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih layanan yang diinginkan'])[1]/following::span[1]</value>
+      <webElementGuid>7ed8226f-53d7-4b1f-bf2b-de6490414ad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/following::span[1]</value>
+      <webElementGuid>c30fee84-df06-4e71-98d5-390222c84d2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PENERBITAN KARTU'])[1]/preceding::span[1]</value>
+      <webElementGuid>9ef8bba1-baf3-48b8-81fb-21064e63ed0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PENGKINIAN DATA'])[1]/preceding::span[2]</value>
+      <webElementGuid>4ff0aeaf-035a-49b1-b863-1624988016a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BUKA REKENING BARU']/parent::*</value>
+      <webElementGuid>1bf84fc5-5bb4-4f60-bc91-fba0b8f7ad3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>40e2efc7-bf1d-4f92-807e-b8f734b8ed05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'BUKA REKENING BARU' or . = 'BUKA REKENING BARU')]</value>
+      <webElementGuid>16d2bab9-2779-4db7-9ac2-bf502b629bb5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

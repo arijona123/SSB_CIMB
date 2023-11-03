@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_BUKA REKENING BARU</name>
+   <tag></tag>
+   <elementGuidId>00dcca68-cd8f-4945-a1de-ce3b4d1bc2e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiButton-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8753a311-e16d-4c4a-a85d-0db76374501a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButton-label</value>
+      <webElementGuid>0c22ecad-80db-4657-bd59-53c652809def</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BUKA REKENING BARU</value>
+      <webElementGuid>de33f5ad-be4e-4fbe-923d-bfb5c9c20151</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;MuiContainer-root jss144 MuiContainer-maxWidthLg&quot;]/div[@class=&quot;MuiGrid-root jss145 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 MuiGrid-grid-md-4&quot;]/div[@class=&quot;MuiPaper-root jss146 MuiPaper-elevation0 MuiPaper-rounded&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained jss23 jss25 jss18 MuiButton-containedPrimary MuiButton-disableElevation&quot;]/span[@class=&quot;MuiButton-label&quot;]</value>
+      <webElementGuid>bf24da43-b80d-4f7b-891d-2dc2c1829082</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/button/span</value>
+      <webElementGuid>5031c97a-0369-47d0-b4cd-9c6f26d8ac4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PENERBITAN KARTU'])[1]/preceding::span[2]</value>
+      <webElementGuid>1209e003-fafb-4d80-b287-0ade9577f062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PENGKINIAN DATA'])[1]/preceding::span[4]</value>
+      <webElementGuid>71057768-2f49-4416-9f99-a1c7b02867b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BUKA REKENING BARU']/parent::*</value>
+      <webElementGuid>5b89bc25-47cc-4fc4-a457-df2856aec1f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>33b13904-a4bc-4bdb-965d-04537399a1e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'BUKA REKENING BARU' or . = 'BUKA REKENING BARU')]</value>
+      <webElementGuid>3e5d62f5-0266-44ec-b085-e6b4af50e51f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

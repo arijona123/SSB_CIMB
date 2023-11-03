@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Lanjut</name>
+   <tag></tag>
+   <elementGuidId>166a9ada-0d59-4462-97ed-677adff01961</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.btn-red.btn-light-red.button--round-l.btn-syarat-2.remove-show.hide.show</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>969f1ffa-1737-4da0-9650-a2406e6a7a4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f79c5db3-03a0-4cde-a516-0796737f854e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button btn-red btn-light-red button--round-l btn-syarat-2 remove-show hide show</value>
+      <webElementGuid>a51997a9-d107-446e-81f9-78e7a3529971</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+									Lanjut
+									
+								</value>
+      <webElementGuid>4cb51203-e91c-458c-ae3d-273e8a8cfbb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;XTRA-TNC&quot;)/div[@class=&quot;container-fluid add-blur&quot;]/div[@class=&quot;pad-global full-h pb190&quot;]/div[@class=&quot;btn-fixed minus-scroll&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;pull-right&quot;]/a[@class=&quot;remove-disabled&quot;]/button[@class=&quot;button btn-red btn-light-red button--round-l btn-syarat-2 remove-show hide show&quot;]</value>
+      <webElementGuid>445676f3-30fe-4ce3-ba0d-e55cbdf85904</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>1fe1c19f-8be8-4f1f-a539-dbcc0254ee50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='XTRA-TNC']/div/div/div[2]/div[3]/div[2]/a/button</value>
+      <webElementGuid>8fb2ef0a-1525-4003-9814-165a485c0592</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lanjut'])[2]/following::button[1]</value>
+      <webElementGuid>dd744e25-df8a-4a1b-97b7-6813165ce4d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lanjut'])[1]/following::button[2]</value>
+      <webElementGuid>8b1e5586-435a-4619-bbcf-70ad57eb915b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jika Anda bukan wajib pajak Indonesia, pilih kondisi dibawah ini :'])[1]/preceding::button[1]</value>
+      <webElementGuid>c4b14471-3040-46bc-9227-1650c5dbc4ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/button</value>
+      <webElementGuid>429c50a0-cea5-4490-b049-0d6581f5805a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+									Lanjut
+									
+								' or . = '
+									Lanjut
+									
+								')]</value>
+      <webElementGuid>b0684ca7-eff5-40a0-a80e-a8ece7248038</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

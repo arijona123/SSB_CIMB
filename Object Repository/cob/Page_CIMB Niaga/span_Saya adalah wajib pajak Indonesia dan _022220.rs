@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Saya adalah wajib pajak Indonesia dan _022220</name>
+   <tag></tag>
+   <elementGuidId>c4b60a9c-226d-4368-9947-2e05afe81287</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='XTRA-TNC']/div/div/div[2]/div[2]/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3e8d5447-a9ab-4dbc-ad52-dec01b124986</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-label</name>
+      <type>Main</type>
+      <value>tnc_syarat2</value>
+      <webElementGuid>f1dfa35e-6817-4923-9b49-c428cb4e935e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Saya adalah wajib pajak Indonesia dan bukan wajib pajak negara lain.</value>
+      <webElementGuid>7b6e22cb-d219-4a16-9ff8-e56c24a8b823</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;XTRA-TNC&quot;)/div[@class=&quot;container-fluid add-blur&quot;]/div[@class=&quot;pad-global full-h pb190&quot;]/div[@class=&quot;btn-fixed minus-scroll&quot;]/div[@class=&quot;checkbox-btn-small bold add-class-disabled checkbox-btn-small&quot;]/label[1]/span[1]</value>
+      <webElementGuid>c9e05eb9-8f0d-4f42-b87c-8753130f8536</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='XTRA-TNC']/div/div/div[2]/div[2]/label/span</value>
+      <webElementGuid>cc31599d-3dcb-4e4b-96ae-3440fc48cec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat dan Ketentuan'])[1]/following::span[2]</value>
+      <webElementGuid>1ce944b5-d598-44b5-9d8a-922c3e3ef216</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/following::span[2]</value>
+      <webElementGuid>8c577831-9db1-4feb-9c7c-dc932ee48485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sebelumnya'])[1]/preceding::span[1]</value>
+      <webElementGuid>85587cac-3da1-426a-8a30-3203b41110d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lanjut'])[1]/preceding::span[2]</value>
+      <webElementGuid>7c0b04f0-21ac-4d6d-a062-a88e30dd90fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Saya adalah wajib pajak Indonesia dan bukan wajib pajak negara lain.']/parent::*</value>
+      <webElementGuid>74bc961d-b3ef-4d2e-8265-3cef4084b87e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/span</value>
+      <webElementGuid>bdb63efe-437b-4407-ba21-4244d920cda5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Saya adalah wajib pajak Indonesia dan bukan wajib pajak negara lain.' or . = 'Saya adalah wajib pajak Indonesia dan bukan wajib pajak negara lain.')]</value>
+      <webElementGuid>11d42088-279e-418e-8eec-4a0a8e96465a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

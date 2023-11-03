@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Help_mCSB_buttonDown</name>
+   <tag></tag>
+   <elementGuidId>16db6740-8fe7-467c-a34a-e5db0b725f8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.mCSB_buttonDown</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value> //*[@id=&quot;mCSB_1_scrollbar_vertical&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>712fcb28-fe59-4d2d-85d9-055e3cb31f87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>ac475756-4c54-4e21-b35b-c3332603400a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mCSB_buttonDown</value>
+      <webElementGuid>e4fb537c-7f0c-4fcf-847a-feecde01d661</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mCSB_1_scrollbar_vertical&quot;)/a[@class=&quot;mCSB_buttonDown&quot;]</value>
+      <webElementGuid>5db6e6c2-99f4-47b4-a1b8-54b7dbfeef67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value> //*[@id=&quot;mCSB_1_scrollbar_vertical&quot;]</value>
+      <webElementGuid>c7afaf17-9bb1-4d03-8bf7-5412c61f4ea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[2]</value>
+      <webElementGuid>1c898567-2d80-430b-a394-e3925688c361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>9f006fb9-a301-4142-ab64-f62f767bcb98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#']</value>
+      <webElementGuid>6f1a3f83-aa7b-4210-a12f-165f13a0cbb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

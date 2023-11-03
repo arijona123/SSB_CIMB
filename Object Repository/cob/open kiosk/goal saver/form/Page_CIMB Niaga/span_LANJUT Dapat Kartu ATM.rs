@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_LANJUT Dapat Kartu ATM</name>
+   <tag></tag>
+   <elementGuidId>e9b9af98-9363-4c4c-ac18-64b036e7d475</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kartu-debit-pop']/div/div/div[2]/div/ul/li/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.btn-red.btn-light-red.uppercase.button--round-l.btn-card-linkage > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f889451e-6412-48d6-bf5b-de43c03e87ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-label</name>
+      <type>Main</type>
+      <value>button_lanjut</value>
+      <webElementGuid>3cefd98f-76f9-4908-94ae-df920cb227b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lanjut</value>
+      <webElementGuid>e43a0f30-b3d1-41df-ac2f-0cd56b2b2a80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kartu-debit-pop&quot;)/div[@class=&quot;overlay&quot;]/div[@class=&quot;popup-content&quot;]/div[@class=&quot;table-tbl&quot;]/div[@class=&quot;cell&quot;]/ul[@class=&quot;l-pop&quot;]/li[1]/div[@class=&quot;text-right&quot;]/button[@class=&quot;button btn-red btn-light-red uppercase button--round-l btn-card-linkage&quot;]/span[1]</value>
+      <webElementGuid>c99ad143-194c-44aa-924e-dd4a7a57abee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kartu-debit-pop']/div/div/div[2]/div/ul/li/div/button/span</value>
+      <webElementGuid>ce71f338-cb31-4544-a7a9-ba6b16ea4de9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='YA'])[7]/following::span[1]</value>
+      <webElementGuid>c8f9da2e-5d05-4f0d-bd6c-95b446e086e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saya telah menerima Kartu ATM CIMBNiaga dengan nomor berikut :'])[1]/preceding::span[1]</value>
+      <webElementGuid>5453e707-ae89-4210-b847-1353450545d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TIDAK'])[8]/preceding::span[1]</value>
+      <webElementGuid>b3740dea-0d90-4fea-b39e-fed49dafe0c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li/div/button/span</value>
+      <webElementGuid>e4d9176b-0b8a-4dc6-b768-dd3d0a69c8a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Lanjut' or . = 'Lanjut')]</value>
+      <webElementGuid>e9a1d076-88dd-4d91-b9fa-a3893d0d15d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

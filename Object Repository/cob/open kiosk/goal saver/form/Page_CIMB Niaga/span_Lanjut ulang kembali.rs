@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Lanjut ulang kembali</name>
+   <tag></tag>
+   <elementGuidId>186e916b-42c0-4cb6-a28c-ace7f04c0072</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='FORM']/div[19]/div/div/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.no-same-pop.bin-salah-pop.popup.open > div.overlay > div.popup-content > div.table-tbl > div.cell > button.button.uppercase.btn-red.btn-light-red.button--round-l > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>55831f2d-489c-452f-b2f9-60994c050c0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-label</name>
+      <type>Main</type>
+      <value>button_lanjut</value>
+      <webElementGuid>a61fbfa5-33b5-4ec6-82a9-281aa568ecbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lanjut</value>
+      <webElementGuid>f775c8b4-e366-49b7-a8e3-7679f25704c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FORM&quot;)/div[@class=&quot;no-same-pop bin-salah-pop popup open&quot;]/div[@class=&quot;overlay&quot;]/div[@class=&quot;popup-content&quot;]/div[@class=&quot;table-tbl&quot;]/div[@class=&quot;cell&quot;]/button[@class=&quot;button uppercase btn-red btn-light-red button--round-l&quot;]/span[1]</value>
+      <webElementGuid>5f843e00-68a4-435e-bfe4-3a22b025ee1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='FORM']/div[19]/div/div/div/div/button/span</value>
+      <webElementGuid>0e219a55-18be-40a3-9b12-43e432a6af73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor kartu ATM yang Anda masukkan tidak sesuai, mohon untuk dapat diulangi kembali.'])[1]/following::span[1]</value>
+      <webElementGuid>9c46c6ea-739c-4cd3-805e-85363b5fb906</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='YA'])[8]/following::span[1]</value>
+      <webElementGuid>b00e9c1a-7afb-4084-bae9-d69914a98a59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::span[1]</value>
+      <webElementGuid>b8581663-c871-4b8e-92f4-52fbc9e4c678</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::span[2]</value>
+      <webElementGuid>7b44ad98-65e7-4017-b0f4-067370344bcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[19]/div/div/div/div/button/span</value>
+      <webElementGuid>c0e63b07-5bf7-4bbb-93f6-351e52485b14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Lanjut' or . = 'Lanjut')]</value>
+      <webElementGuid>fe013ae9-beca-4537-81dc-95d97fab9242</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

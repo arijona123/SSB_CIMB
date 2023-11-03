@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>canvas tanda tangan</name>
+   <tag></tag>
+   <elementGuidId>6cc86fbf-30a2-4b8a-8b23-eb8a90442180</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>canvas</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div/form/div[2]/div[2]/div/canvas</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>canvas</value>
+      <webElementGuid>48eba63c-2d0a-4326-8e05-be327c267991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>529</value>
+      <webElementGuid>aa04899d-a0d8-4666-8e75-55d32923c3f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>290</value>
+      <webElementGuid>3817c7b2-bbdd-48f5-a156-f6ac3164f362</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss988&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss990 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-12&quot;]/div[@class=&quot;jss991&quot;]/div[@class=&quot;MuiGrid-root jss997 MuiGrid-container MuiGrid-spacing-xs-1&quot;]/div[@class=&quot;MuiGrid-root jss996 MuiGrid-item MuiGrid-grid-xs-12&quot;]/form[@class=&quot;jss1006&quot;]/div[@class=&quot;MuiGrid-root jss1007 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-8&quot;]/div[@class=&quot;MuiPaper-root jss1008 MuiPaper-elevation3 MuiPaper-rounded&quot;]/canvas[1]</value>
+      <webElementGuid>eb19af4a-0998-4a77-be1c-afa45534952f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/form/div[2]/div[2]/div/canvas</value>
+      <webElementGuid>c122d780-4dc1-4aeb-8096-dde8d6e802de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//canvas</value>
+      <webElementGuid>e3924367-b428-48b6-9c7c-1618df89d5a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

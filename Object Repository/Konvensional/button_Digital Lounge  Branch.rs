@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Digital Lounge  Branch</name>
+   <tag></tag>
+   <elementGuidId>77c38727-ae40-4bf1-9529-4d35d534b894</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.jss23.jss25.jss18.MuiButton-containedPrimary.MuiButton-disableElevation</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>87994ef1-1a0a-4dbf-9c04-fe0af52b31fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-contained jss23 jss25 jss18 MuiButton-containedPrimary MuiButton-disableElevation</value>
+      <webElementGuid>66685aca-1297-43a8-bb23-7bc1269a6bbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>a1ff8511-045b-4464-96d1-e683dc503692</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e8ff3f99-18f6-4f8a-9e48-697ede9e1be7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Digital Lounge / Branch</value>
+      <webElementGuid>f9f1bac4-181a-459c-ad61-62836d8f6996</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;MuiGrid-root&quot;]/div[1]/div[@class=&quot;MuiContainer-root jss14 MuiContainer-maxWidthLg&quot;]/div[@class=&quot;MuiGrid-root jss15 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 MuiGrid-grid-md-4&quot;]/div[@class=&quot;MuiPaper-root jss16 MuiPaper-elevation0 MuiPaper-rounded&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained jss23 jss25 jss18 MuiButton-containedPrimary MuiButton-disableElevation&quot;]</value>
+      <webElementGuid>6f8348e7-19c2-4bf2-b298-34c26433075a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>898ad26c-4b8a-4146-aa4e-a88196e6c640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div/div/div/button</value>
+      <webElementGuid>b02f8904-0cd7-4051-a419-72cad1f8be7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tablet'])[1]/preceding::button[1]</value>
+      <webElementGuid>e0d2be91-1290-4d25-916b-823ad2e91793</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>7c46462d-f5b4-4da8-ae4e-57e3f71515c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Digital Lounge / Branch' or . = 'Digital Lounge / Branch')]</value>
+      <webElementGuid>0a28c8a8-2f16-447d-9fcf-6ee89d7833b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Saya telah membaca, memahami, dan menyetujui Syarat dan Ketentuan yang berlaku dan fitur-fitur produk</name>
+   <tag></tag>
+   <elementGuidId>520112b0-1009-4c8f-961d-a3a29b3653df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/label[2]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5d369ab3-a9d4-4e9f-bdc9-b61b03aaac06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiFormControlLabel-label jss263 MuiTypography-body1</value>
+      <webElementGuid>5cc51178-5317-43d6-b0a1-838db4efd86b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Saya telah membaca, memahami, dan menyetujui Syarat dan Ketentuan yang berlaku dan fitur-fitur produk.</value>
+      <webElementGuid>65041e53-1d6b-45f8-9b87-b6cd4eed67a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss255&quot;]/div[@class=&quot;MuiPaper-root MuiCard-root MuiPaper-elevation0 MuiPaper-rounded&quot;]/label[@class=&quot;MuiFormControlLabel-root&quot;]/span[@class=&quot;MuiTypography-root MuiFormControlLabel-label jss263 MuiTypography-body1&quot;]</value>
+      <webElementGuid>930edcee-df0f-44bc-8fe2-20828638e7a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/label[2]/span[2]</value>
+      <webElementGuid>d3f023a8-693a-41ca-b93d-f3d7e75e74d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sebelumnya'])[1]/preceding::span[1]</value>
+      <webElementGuid>342fbc48-dbb0-43d0-8b1b-bcdfa4efadec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lanjut'])[1]/preceding::span[4]</value>
+      <webElementGuid>e1c52506-c96c-45e1-a556-322f4d4cf511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Saya telah membaca, memahami, dan menyetujui Syarat dan Ketentuan yang berlaku dan fitur-fitur produk.']/parent::*</value>
+      <webElementGuid>540c6fe3-5f24-4970-8b06-c3fcc5fa787d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]/span[2]</value>
+      <webElementGuid>add57eaf-c018-4097-8578-4f240b091855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Saya telah membaca, memahami, dan menyetujui Syarat dan Ketentuan yang berlaku dan fitur-fitur produk.' or . = 'Saya telah membaca, memahami, dan menyetujui Syarat dan Ketentuan yang berlaku dan fitur-fitur produk.')]</value>
+      <webElementGuid>e1732ef0-6403-48d1-bd78-cb06f25a0c09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Lanjut</name>
+   <tag></tag>
+   <elementGuidId>486b2712-a428-4f59-a11a-5c86e6109eb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.btn-red.btn-light-red.button--round-l.btn-riplay-1.hide.show</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d27607b9-d239-4151-bd76-ad9f98dbd6c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>38c77791-81f2-42cd-abc6-2abf74ac42bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button btn-red btn-light-red button--round-l btn-riplay-1 hide show</value>
+      <webElementGuid>6e0de4ca-1e37-4c24-847f-e293489c947c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+									Lanjut
+									
+								</value>
+      <webElementGuid>ae85d8cc-10b1-4572-96f8-bfe6da7a8cfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FORM-RIPLAY&quot;)/div[@class=&quot;container-fluid add-blur&quot;]/div[@class=&quot;pad-global full-h&quot;]/div[@class=&quot;btn-fixed minus-scroll&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;pull-right&quot;]/a[@class=&quot;btn-riplay-1 show&quot;]/button[@class=&quot;button btn-red btn-light-red button--round-l btn-riplay-1 hide show&quot;]</value>
+      <webElementGuid>a3fcd6d5-7a81-460f-b909-46f42f4ecef4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>901fa35a-11d6-4e1f-8c2b-f009d2573657</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='FORM-RIPLAY']/div/div/div[2]/div[2]/div[2]/a/button</value>
+      <webElementGuid>7429fed1-bb45-4df5-be14-03ef24ba1b40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lanjut'])[1]/following::button[1]</value>
+      <webElementGuid>50e843d1-4c00-4500-a3b4-2c67672ff03a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sebelumnya'])[1]/following::button[2]</value>
+      <webElementGuid>be1d7799-2f57-4aec-9812-cb763e2c2efb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Silakan membaca seluruh halaman'])[1]/preceding::button[1]</value>
+      <webElementGuid>fdc6c3fc-4d80-4c0b-80d6-e452892816fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/button</value>
+      <webElementGuid>023d1322-13ad-41eb-8726-8315db1d33b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+									Lanjut
+									
+								' or . = '
+									Lanjut
+									
+								')]</value>
+      <webElementGuid>a71ed1b5-e9dc-44d0-9bae-49a9aaada2b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

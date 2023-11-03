@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_OTNIEL HUDY</name>
+   <tag></tag>
+   <elementGuidId>f91b09e3-74f3-4959-8a8f-bdbe5959841b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='FORM']/section/div/div/div[2]/div/div[2]/div/div/form/div[2]/div/div/div/div[2]/div/div/ul/li[8]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(8) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>26c1228c-a007-4564-9683-afeaf3ba5ac0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e4f9a034-3dd3-40f1-abee-1fed373e444f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>5a33abf7-2145-4ca9-8fc5-7763547d936e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e87e95eb-ceb4-4c92-b33a-4e60aa17e30a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>1285033e-83af-48b4-8336-5cdb79c0283d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OTNIEL HUDY</value>
+      <webElementGuid>388433be-4def-4eb0-b46e-d5cee1f2c191</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FORM&quot;)/section[@class=&quot;SAXTRA-EXISTING-6 remove-hide&quot;]/div[@class=&quot;container-fluid add-blur&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10&quot;]/div[@class=&quot;wrap-right&quot;]/div[@class=&quot;in-form&quot;]/div[@class=&quot;table-tbl&quot;]/div[@class=&quot;cell&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;wrap-select&quot;]/div[@class=&quot;pos-rel custom-select&quot;]/div[@class=&quot;btn-group bootstrap-select required open&quot;]/div[@class=&quot;dropdown-menu open&quot;]/ul[@class=&quot;dropdown-menu inner&quot;]/li[8]/a[1]</value>
+      <webElementGuid>a4376fa4-fc57-435d-a324-b6739401e9b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='FORM']/section/div/div/div[2]/div/div[2]/div/div/form/div[2]/div/div/div/div[2]/div/div/ul/li[8]/a</value>
+      <webElementGuid>606e3a55-7760-48ee-9974-5a2abb564d71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OTNIEL HUDY PRAT'])[1]/following::a[1]</value>
+      <webElementGuid>d9361f80-f84a-4b47-b0ae-fcb624d07274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='O. HUDY P.'])[1]/following::a[2]</value>
+      <webElementGuid>05778c11-a27a-4cd6-b49c-1d0f8ce5ba36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HUDY PRATAMA'])[1]/preceding::a[1]</value>
+      <webElementGuid>ba9c845f-4d5c-4a8d-80df-93647b8b93de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a</value>
+      <webElementGuid>b7c59d62-ffb3-48b7-8dac-6d358254535b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'OTNIEL HUDY' or . = 'OTNIEL HUDY')]</value>
+      <webElementGuid>b8ad5cf3-d170-440a-8364-ce06952d21ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TS003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>74d5afdf-bf50-45e5-94f7-c73a267502cc</testCaseGuid>
+   <variable>
+      <defaultValue>'https://mf8.myinfosys.net:8443/cimb_tablet\r\n'</defaultValue>
+      <description></description>
+      <id>fa0b7410-0820-4b04-91aa-410ffe617bfd</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>8a66cdd6-9dd9-4375-bded-81538810bb38</id>
+      <masked>false</masked>
+      <name>label</name>
+   </variable>
+</TestCaseEntity>

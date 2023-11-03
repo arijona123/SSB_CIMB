@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Nama di kartu ATM</name>
+   <tag></tag>
+   <elementGuidId>92f46b92-6418-44b7-9034-71e8294c0efa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='FORM']/section/div/div/div[2]/div/div[2]/div/div/form/div[2]/div/div/div/div[2]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.filter-option.pull-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a5795861-3e2f-495d-b829-249b1b82304b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-option pull-left</value>
+      <webElementGuid>be06b2af-a136-4d7f-bf5e-dc9703eca737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>---</value>
+      <webElementGuid>3b050386-655c-4a7b-8358-e85c58a94948</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FORM&quot;)/section[@class=&quot;SAXTRA-EXISTING-6 remove-hide show&quot;]/div[@class=&quot;container-fluid add-blur&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10&quot;]/div[@class=&quot;wrap-right&quot;]/div[@class=&quot;in-form&quot;]/div[@class=&quot;table-tbl&quot;]/div[@class=&quot;cell&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;wrap-select&quot;]/div[@class=&quot;pos-rel custom-select&quot;]/div[@class=&quot;btn-group bootstrap-select required&quot;]/button[@class=&quot;btn dropdown-toggle btn-default bs-placeholder&quot;]/span[@class=&quot;filter-option pull-left&quot;]</value>
+      <webElementGuid>eb5c6f08-14c2-48d9-8575-a688291565b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='FORM']/section/div/div/div[2]/div/div[2]/div/div/form/div[2]/div/div/div/div[2]/div/button/span</value>
+      <webElementGuid>fc2ef833-aca9-4623-bddf-1040997812ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama di Kartu ATM'])[1]/following::span[1]</value>
+      <webElementGuid>ed091d2b-0812-4e5e-b96d-b634cf228ffd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jika terdapat data yang belum sesuai, mohon melakukan pembaharuan data di menu Pengkinian Data'])[1]/following::span[1]</value>
+      <webElementGuid>1e0f1c19-becf-4fc1-981e-8dbf94b6b8f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='---'])[2]/preceding::span[3]</value>
+      <webElementGuid>fbac4220-e1e1-4ffb-83a4-89d9ceeee785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='O. HUDY PRATAMA'])[1]/preceding::span[5]</value>
+      <webElementGuid>becc5c91-92a1-4fc2-91bb-acba0602ff52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='---']/parent::*</value>
+      <webElementGuid>8c8cff3b-8d21-49d3-8cf1-ca0a7868e0a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>c943bf38-8392-46ce-84bd-ad38b55c0ab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '---' or . = '---')]</value>
+      <webElementGuid>00963649-6975-48ec-b24b-0087999ea875</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
